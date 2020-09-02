@@ -1,0 +1,26 @@
+https://tech-u.github.io/TechU.github.io/.
+
+TechU.github.io
+
+techu.azurewebsites.net
+
+Mohammed Sohail
+Khan
+TechU		
+sohail.khan911@hotmail.com
+7208744375
+
+Maharashtra
+Mumbai
+400008
+
+http://104.211.97.138/
+
+
+Setting up single sign-on - Configuration is required in both Azure Active Directory, and often in the app itself to enable single sign-on to work between them. This often involves configuring and app to trust Azure AD using the SAML protocol, or alternately setting up password-based SSO through a browser extension. Learn more about Single sign-on
+
+Provisioning user accounts in the application - Most applications require user accounts and profiles to exist within the application, prior to those users being allowed to sign in. This account is what enables a user to be authorized to use the app, after they have authenticated through single sign-on. For selected apps, Azure Active Directory supports the ability to automatically provision and de-provision these accounts. Learn more about Application provisioning
+
+Assigning users to an application in Azure Active Directory - This whitelists users for single sign-on, and causes the application to appear in their Office 365 or the Azure AD access panel. If Azure Active Directory automatic account provisioning is enabled, is also causes them to be automatically provisioned and de-provisioned. Learn more about User assignment
+
+Deploying single sign-on to end users - There are a variety of ways users can sign into apps, including going to the app directly (SAML SSO apps only), launching the app from Office 365 or the Azure AD access panel, or by using a specially-formatted app sign-on link. Learn more about Deploying user
